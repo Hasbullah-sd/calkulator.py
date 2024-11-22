@@ -1,0 +1,2 @@
+# calkulator.py
+calkulator sederhana
